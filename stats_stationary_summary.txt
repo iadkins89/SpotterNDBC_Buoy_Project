@@ -1,0 +1,38 @@
+SPOTTER BOUY SIGNIFICANT WAVE HEIGHT (m)
+Test Statistics: -8.031497471559646
+p-value: 1.9528239932060555e-12
+cristical_values: {'1%': -3.4313637770305725, '5%': -2.8619880020285886, '10%': -2.567008468201055}
+Series is stationary
+
+SPOTTER BOUY MEAN PERIOD (s)
+Test Statistics: -9.529410550256861
+p-value: 2.918029665239222e-16
+cristical_values: {'1%': -3.4313611122617313, '5%': -2.8619868246308267, '10%': -2.5670078414463138}
+Series is stationary
+
+SPOTTER BOUY PEAK DIRECTION (deg)
+Test Statistics: -12.807026495735501
+p-value: 6.5674619420236485e-24
+cristical_values: {'1%': -3.431361894561928, '5%': -2.8619871702813677, '10%': -2.5670080254436853}
+Series is stationary
+
+NBDC BOUY WAVE HEIGHT (m)
+Test Statistics: -8.21870799896001
+p-value: 6.517349192736594e-13
+cristical_values: {'1%': -3.4313637770305725, '5%': -2.8619880020285886, '10%': -2.567008468201055}
+Series is stationary
+
+NDBC BOUY MEAN PERIOD (s)
+Test Statistics: -8.182649512800054
+p-value: 8.053689188023976e-13
+cristical_values: {'1%': -3.4313617380050605, '5%': -2.8619871011084843, '10%': -2.5670079886214396}
+Series is stationary
+
+NDBC BOUY PEAK DIRECTION (deg)
+Test Statistics: -11.752678530871796
+p-value: 1.1987702966760216e-21
+cristical_values: {'1%': -3.43136158149663, '5%': -2.8619870319569984, '10%': -2.5670079518105853}
+Series is stationary
+
+
+

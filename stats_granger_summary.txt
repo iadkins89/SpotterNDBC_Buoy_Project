@@ -1,0 +1,182 @@
+GRANGER WVHT VS SIGNIFICANT WAVE HEIGHT
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=184.7609, p=0.0000  , df_denom=6476, df_num=1
+ssr based chi2 test:   chi2=184.8465, p=0.0000  , df=1
+likelihood ratio test: chi2=182.2588, p=0.0000  , df=1
+parameter F test:         F=184.7609, p=0.0000  , df_denom=6476, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=130.1157, p=0.0000  , df_denom=6473, df_num=2
+ssr based chi2 test:   chi2=260.4324, p=0.0000  , df=2
+likelihood ratio test: chi2=255.3335, p=0.0000  , df=2
+parameter F test:         F=130.1157, p=0.0000  , df_denom=6473, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=108.3591, p=0.0000  , df_denom=6470, df_num=3
+ssr based chi2 test:   chi2=325.4291, p=0.0000  , df=3
+likelihood ratio test: chi2=317.5176, p=0.0000  , df=3
+parameter F test:         F=108.3591, p=0.0000  , df_denom=6470, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=84.9901 , p=0.0000  , df_denom=6467, df_num=4
+ssr based chi2 test:   chi2=340.4336, p=0.0000  , df=4
+likelihood ratio test: chi2=331.7873, p=0.0000  , df=4
+parameter F test:         F=84.9901 , p=0.0000  , df_denom=6467, df_num=4
+
+GRANGER SIGNIFICANT WAVE HEIGHT VS WVHT
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=1106.0560, p=0.0000  , df_denom=6476, df_num=1
+ssr based chi2 test:   chi2=1106.5683, p=0.0000  , df=1
+likelihood ratio test: chi2=1021.6175, p=0.0000  , df=1
+parameter F test:         F=1106.0560, p=0.0000  , df_denom=6476, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=340.8636, p=0.0000  , df_denom=6473, df_num=2
+ssr based chi2 test:   chi2=682.2538, p=0.0000  , df=2
+likelihood ratio test: chi2=648.6655, p=0.0000  , df=2
+parameter F test:         F=340.8636, p=0.0000  , df_denom=6473, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=225.9878, p=0.0000  , df_denom=6470, df_num=3
+ssr based chi2 test:   chi2=678.6968, p=0.0000  , df=3
+likelihood ratio test: chi2=645.4418, p=0.0000  , df=3
+parameter F test:         F=225.9878, p=0.0000  , df_denom=6470, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=175.8234, p=0.0000  , df_denom=6467, df_num=4
+ssr based chi2 test:   chi2=704.2725, p=0.0000  , df=4
+likelihood ratio test: chi2=668.5453, p=0.0000  , df=4
+parameter F test:         F=175.8234, p=0.0000  , df_denom=6467, df_num=4
+---------------------------------------------------------------------------
+GRANGER APD VS MEAN PERIOD
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=116.2920, p=0.0000  , df_denom=6476, df_num=1
+ssr based chi2 test:   chi2=116.3459, p=0.0000  , df=1
+likelihood ratio test: chi2=115.3136, p=0.0000  , df=1
+parameter F test:         F=116.2920, p=0.0000  , df_denom=6476, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=65.3412 , p=0.0000  , df_denom=6473, df_num=2
+ssr based chi2 test:   chi2=130.7834, p=0.0000  , df=2
+likelihood ratio test: chi2=129.4807, p=0.0000  , df=2
+parameter F test:         F=65.3412 , p=0.0000  , df_denom=6473, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=47.4931 , p=0.0000  , df_denom=6470, df_num=3
+ssr based chi2 test:   chi2=142.6334, p=0.0000  , df=3
+likelihood ratio test: chi2=141.0856, p=0.0000  , df=3
+parameter F test:         F=47.4931 , p=0.0000  , df_denom=6470, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=36.5709 , p=0.0000  , df_denom=6467, df_num=4
+ssr based chi2 test:   chi2=146.4874, p=0.0000  , df=4
+likelihood ratio test: chi2=144.8552, p=0.0000  , df=4
+parameter F test:         F=36.5709 , p=0.0000  , df_denom=6467, df_num=4
+
+GRANGER MEAN PERIOD VS APD
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=1556.6077, p=0.0000  , df_denom=6476, df_num=1
+ssr based chi2 test:   chi2=1557.3287, p=0.0000  , df=1
+likelihood ratio test: chi2=1395.6166, p=0.0000  , df=1
+parameter F test:         F=1556.6077, p=0.0000  , df_denom=6476, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=358.8183, p=0.0000  , df_denom=6473, df_num=2
+ssr based chi2 test:   chi2=718.1909, p=0.0000  , df=2
+likelihood ratio test: chi2=681.0971, p=0.0000  , df=2
+parameter F test:         F=358.8183, p=0.0000  , df_denom=6473, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=180.6047, p=0.0000  , df_denom=6470, df_num=3
+ssr based chi2 test:   chi2=542.4004, p=0.0000  , df=3
+likelihood ratio test: chi2=520.8827, p=0.0000  , df=3
+parameter F test:         F=180.6047, p=0.0000  , df_denom=6470, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=116.0898, p=0.0000  , df_denom=6467, df_num=4
+ssr based chi2 test:   chi2=465.0054, p=0.0000  , df=4
+likelihood ratio test: chi2=449.0691, p=0.0000  , df=4
+parameter F test:         F=116.0898, p=0.0000  , df_denom=6467, df_num=4
+---------------------------------------------------------------------------
+GRANGER MWD VS PEAK DIRECTION (DEG)
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=197.3273, p=0.0000  , df_denom=6476, df_num=1
+ssr based chi2 test:   chi2=197.4187, p=0.0000  , df=1
+likelihood ratio test: chi2=194.4707, p=0.0000  , df=1
+parameter F test:         F=197.3273, p=0.0000  , df_denom=6476, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=59.9527 , p=0.0000  , df_denom=6473, df_num=2
+ssr based chi2 test:   chi2=119.9981, p=0.0000  , df=2
+likelihood ratio test: chi2=118.9002, p=0.0000  , df=2
+parameter F test:         F=59.9527 , p=0.0000  , df_denom=6473, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=38.3441 , p=0.0000  , df_denom=6470, df_num=3
+ssr based chi2 test:   chi2=115.1567, p=0.0000  , df=3
+likelihood ratio test: chi2=114.1449, p=0.0000  , df=3
+parameter F test:         F=38.3441 , p=0.0000  , df_denom=6470, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=27.6769 , p=0.0000  , df_denom=6467, df_num=4
+ssr based chi2 test:   chi2=110.8615, p=0.0000  , df=4
+likelihood ratio test: chi2=109.9233, p=0.0000  , df=4
+parameter F test:         F=27.6769 , p=0.0000  , df_denom=6467, df_num=4
+
+GRANGER PEAK DIRECTION (DEG) VS MWD
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=544.8800, p=0.0000  , df_denom=6476, df_num=1
+ssr based chi2 test:   chi2=545.1324, p=0.0000  , df=1
+likelihood ratio test: chi2=523.4094, p=0.0000  , df=1
+parameter F test:         F=544.8800, p=0.0000  , df_denom=6476, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=187.8135, p=0.0000  , df_denom=6473, df_num=2
+ssr based chi2 test:   chi2=375.9172, p=0.0000  , df=2
+likelihood ratio test: chi2=365.4144, p=0.0000  , df=2
+parameter F test:         F=187.8135, p=0.0000  , df_denom=6473, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=127.3145, p=0.0000  , df_denom=6470, df_num=3
+ssr based chi2 test:   chi2=382.3569, p=0.0000  , df=3
+likelihood ratio test: chi2=371.4964, p=0.0000  , df=3
+parameter F test:         F=127.3145, p=0.0000  , df_denom=6470, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=91.0521 , p=0.0000  , df_denom=6467, df_num=4
+ssr based chi2 test:   chi2=364.7151, p=0.0000  , df=4
+likelihood ratio test: chi2=354.8151, p=0.0000  , df=4
+parameter F test:         F=91.0521 , p=0.0000  , df_denom=6467, df_num=4
+
+
+
